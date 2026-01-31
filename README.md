@@ -12,7 +12,8 @@ A practice project for building friend and page recommendations based on social 
 
 - `01_Maintaining.ipynb` - Load and explore data
 - `02_Cleaning.ipynb` - Clean dirty data
-- `03_people_you_mayknow.ipynb` - Recommendation algorithms
+- `03_people_you_mayknow.ipynb` - People Recommendation algorithm
+- `04_pages_you_might_like.ipynb` - Pages Recommendation algorithm
 - `data.json`, `data2.json`, `massive_data.json` - Sample datasets
 
 ## How to use
